@@ -12,5 +12,5 @@ function isPrime(num) {
 }
 
 module.exports = {
-  isPrime: isPrime
+  isPrime
 };
